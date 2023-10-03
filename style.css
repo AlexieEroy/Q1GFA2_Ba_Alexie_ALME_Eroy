@@ -1,0 +1,41 @@
+.banner {
+    background-image: url(Pictures/banner2.jpg);
+    height: 20vh;
+    width: 100%;        
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.links1 {
+    display: inline-block;
+}
+
+.links2 {
+    display: inline-block;
+    float: right;
+}
+
+.links1 a{
+display: block;
+text-align: left;
+}
+
+.links2 a{
+   display: block;
+   text-align: right;
+   
+}
+
+.content {
+    max-width: 50%;
+    display: inline-block;
+    position: absolute;
+    left: 50vh;
+    text-align: center;
+}
+
+.cat {
+    text-align: center;
+}
+
